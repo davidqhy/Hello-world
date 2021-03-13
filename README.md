@@ -1,2 +1,2 @@
 # Hello-world
-Testing Github. busy
+# THis is a read me note created as the lesson requires
